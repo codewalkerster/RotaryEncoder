@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RotaryEncoder</string>
+    <string name="gpio">GPIO</string>
+    <string name="active">Active</string>
+    <string name="pullupdn">Pull-up/down</string>
+    <string name="keycode">Keycode</string>
+
+    <string name="port_a">Port A</string>
+    <string name="port_b">Port B</string>
+    <string name="button">Button</string>
+
+    <string name="bt_gpio">button GPIO</string>
+    <string name="bt_active">button Active</string>
+    <string name="bt_pullupdn">button Pull-up/down</string>
+    <string name="bt_keycode">button Keycode</string>
+    <string name="apply">Apply</string>
+    <string name="pullupdown">Pull-up/down</string>
+
+    <string name="high">High</string>
+    <string name="low">Low</string>
+
+</resources>
