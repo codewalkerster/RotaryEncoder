@@ -5,8 +5,8 @@
     <string name="pullupdn">Pull-up/down</string>
     <string name="keycode">Keycode</string>
 
-    <string name="port_a">Port A</string>
-    <string name="port_b">Port B</string>
+    <string name="port_a">Count ClockWise</string>
+    <string name="port_b">ClockWise</string>
     <string name="button">Button</string>
 
     <string name="bt_gpio">button GPIO</string>
